@@ -3,7 +3,7 @@
 #include <util/delay.h>    // Defines _delay_ms() for delay
 
 
-#define LED_PIN PB0        // Define the LED pin as PB0
+#define LED_PIN PB3       // Define the LED pin as PB0
 
 void main(void) {
     // Set PB0 as an output
